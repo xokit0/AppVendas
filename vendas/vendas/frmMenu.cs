@@ -16,5 +16,48 @@ namespace vendas
         {
             InitializeComponent();
         }
+
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmProduto produto = new frmProduto();
+            produto.Show();
+
+        }
+
+        private void vendasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmVenda venda = new frmVenda();   
+            venda.Show();
+        }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var fechar = MessageBox.Show("Deseja realmente fechar o programa?", "Fechar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (fechar == DialogResult.Yes)
+            {
+                Environment.Exit(0);
+            }
+        }
+
+        private void pbxProduto_Click(object sender, EventArgs e)
+        {
+            frmProduto produto = new frmProduto();
+            produto.Show();
+        }
+
+        private void pbxVendas_Click(object sender, EventArgs e)
+        {
+            frmVenda venda = new frmVenda();
+            venda.Show();
+        }
+
+        private void pbxSair_Click(object sender, EventArgs e)
+        {
+            var fechar = MessageBox.Show("Deseja realmente fechar o programa?", "Fechar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (fechar == DialogResult.Yes)
+            {
+                Environment.Exit(0);
+            }
+        }
     }
 }

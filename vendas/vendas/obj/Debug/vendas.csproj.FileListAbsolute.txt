@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\bin\Debug\DbVendas.mdf
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\bin\Debug\DbVendas_log.ldf
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\bin\Debug\vendas.exe.config
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\bin\Debug\vendas.exe
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\bin\Debug\vendas.pdb
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.frmMenu.resources
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.Properties.Resources.resources
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.exe
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.pdb
+C:\Users\Aluno\Downloads\AppVendas\vendas\vendas\obj\Debug\vendas.frmProduto.resources
