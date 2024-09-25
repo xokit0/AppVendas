@@ -132,6 +132,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>DbVendas.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\procurar.png" />
     <None Include="Resources\caixa.png" />
     <None Include="Resources\carrinho.png" />
     <None Include="Resources\produtos.png" />

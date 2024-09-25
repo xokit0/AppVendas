@@ -28,6 +28,7 @@ namespace vendas.Controller
             SqlDataReader dr = cmd.ExecuteReader();       // abrindo data reader e executando
             while (dr.Read()) 
             {
+                Produto produto = new Produto();
                 produto.Id = (int)dr["Id"];              //  informo qual tipo do campo e indico qual campo é
                 produto.nome = dr["nome"].ToString();     //  quando é algo que comporta caracter somente no final informo para transformar em string
                 produto.quantidade = (int)dr["quantidade"];
